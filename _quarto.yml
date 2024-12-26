@@ -6,56 +6,39 @@ project:
 
 website:
   title: "MUSA 550"
-
   page-footer:
-    right: "delmelle@gmail.com"
-    left: ""
-
+    left: "Echin, Xinya"
+    right: "MUSA 550 Final"
   sidebar:
-    logo: "images/course-icon.png"
     pinned: true
     align: center
-    tools: 
+    tools:
+      - icon: backpack
+        href: https://musa-550-fall-2024.github.io/course/
+        text: "Class Website"
       - icon: github
-        href: https://github.com/MUSA-550-Fall-2024/
-        text: "MUSA 550 GitHub"
-
+        text: "Our GitHub"
+      - icon: mortarboard
+        href: https://www.design.upenn.edu/
+        text: "Stuart Weitzman School of Design"
     style: "docked"
     search: true
     collapse-level: 2
     contents:
       - href: index.qmd
-        text: Home
-      - href: syllabus.qmd
-        text: Syllabus
-      - href: lectures.qmd
-        text: Lectures  
-      - section: "Resources"
+        text: Welcome
+      - href: about2.qmd
+        text: Team
+      - href: intro.qmd
+        text: Introduction
+      - section: analysis/index.qmd
+        text: Analysis
         contents:
-          - href: resource/install.qmd
-            text: "Installation Guide"
-          - href: resource/common-issues.qmd 
-            text: "Common Issues"
-          - href: resource/file-paths.qmd
-            text: "File Paths"
-          - href: resource/jupyter.qmd
-            text: "Jupyter Notebook"
-          - href: resource/mamba.qmd
-            text: "Mamba"
-          - href: resource/python.qmd
-            text: "Python"
-      - section: "Cheat Sheets"
-        contents:
-          - href: cheatsheets/python.pdf
-            text: "Python Basics"
-          - href: cheatsheets/pandas.pdf
-            text: "Pandas"
-          - href: cheatsheets/conda.pdf
-            text: "Conda"
-          - href: cheatsheets/matplotlib.pdf
-            text: "Matplotlib"
-          - href: cheatsheets/seaborn.pdf
-            text: "Seaborn"
+          - analysis/1-network.ipynb 
+          - analysis/2-prediction.ipynb
+      - href: conclusion.qmd
+        text: Conclusion
+
 format:
   html:
     highlight-style: solarized
@@ -64,3 +47,4 @@ format:
     code-copy: true
     code-overflow: wrap
     toc: true
+    
