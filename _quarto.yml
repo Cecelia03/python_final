@@ -10,6 +10,7 @@ website:
     left: "Echin, Xinya"
     right: "MUSA 550 Final"
   sidebar:
+    logo: "images/course-icon.png"
     pinned: true
     align: center
     tools:
@@ -25,17 +26,12 @@ website:
     search: true
     collapse-level: 2
     contents:
-      - href: index.qmd
-        text: Welcome
-      - href: about2.qmd
-        text: Team
       - href: intro.qmd
         text: Introduction
-      - section: analysis/index.qmd
+      - section: 
         text: Analysis
         contents:
-          - analysis/1-network.ipynb 
-          - analysis/2-prediction.ipynb
+          - href: analysis.ipynb 
       - href: conclusion.qmd
         text: Conclusion
 

@@ -1,0 +1,60 @@
+---
+title: "Concluding"
+---
+
+## Concluding
+
+Our study focuses on the topics of travel on Chinese social platforms, employing advanced analytical tools and methods to delve into the cultural and emotional dimensions of travel discourse. By concentrating on user-generated content (UGC) from the renowned Q&A platform Zhihu and utilizing SnowNLP for sentiment analysis, we examined the evolution of travelers’ perceptions, preferences, and emotional feedback between 2011 and 2024.
+
+We found that over this 14-year span, positive emotional trends exhibited a significant upward trajectory, while negative emotions markedly decreased. By 2024, sentiment was almost entirely dominated by positivity, whereas certain years, such as 2021, showed more pronounced emotional polarization. The rise in positive sentiment reflects travelers’ growing satisfaction with and trust in online information.
+
+UGC demonstrates immense value in understanding tourist behavior and preferences. Sentiment distribution across content and comments shows that positive emotions dominate, with negative emotions being relatively rare. This finding further validates the critical role of social media platforms in shaping and reflecting travelers’ perceptions. Cultural and natural attractions were frequently mentioned in UGC discussions, aligning with existing taxonomies of tourist attractions. Cluster analysis revealed distinct themes and emotional patterns, highlighting varying emphases on experiences such as natural landscapes, cultural heritage, and urban exploration. Analysis of engagement metrics, including likes and comments, indicated a steady annual increase in user interaction. The correlation between sentiment scores and engagement data underscores the significant impact of emotional appeal on content popularity. Our findings further confirm the cultural dimension’s influence on travel behavior. UGC reveals that collectivist cultures (e.g., Chinese tourists) tend to favor socially appealing popular attractions, while individualist cultures (e.g., Western tourists) prefer diverse and independent experiences.
+
+Although the predictive accuracy of the model is moderate (R² = 0.5779), the results suggest that engagement metrics such as likes, comments, and sub-comments can partially predict sentiment scores. The relatively low mean squared error (MSE = 0.05076) indicates limited bias in the model, but incorporating additional features (e.g., content length or thematic keywords) offers potential for improvement.
+
+Based on our findings, we propose several recommendations. The upward trend in positive sentiment suggests the potential to leverage UGC in promotional activities. Tourism agencies and destination marketers can use these insights to design promotional content that aligns with travelers’ emotional preferences. Understanding how different cultures influence travel behavior can help destinations provide more personalized experiences. For example, collectivist travelers may prefer group activities, while individualist travelers might favor free exploration or adventure experiences. In the future, introducing more features (e.g., linguistic nuances, visual data, and real-time engagement metrics) to optimize predictive models will provide deeper insights into emotional dynamics. In summary, this study reveals the complex interplay between cultural influences, emotional dimensions, and UGC in shaping travel discourse. These findings not only provide theoretical support for understanding how digital platforms reflect and influence travel experiences but also offer significant reference value for tourism research and practice.
+
+
+## Reference
+
+Alaei, A. R., Becken, S., & Stantic, B. (2019). Sentiment Analysis in Tourism: Capitalizing on Big Data. Journal of Travel Research, 58(2), 175–191. https://doi.org/10.1177/0047287517747753
+
+Chang, R. C. Y., Kivela, J., & Mak, A. H. N. (2011). Attributes that influence the evaluation of travel dining experience: When East meets West. Tourism Management, 32(2), 307–316. https://doi.org/10.1016/j.tourman.2010.02.009 Del Chiappa, G., Lorenzo-Romero, C., & Alarcón-del-Amo, M.-C. (2015). The Influence of User-Generated Content on Tourists’ Choices. Market-Tržište, 27(2), 221–236.
+
+Garner, B., & Kim, D. (2022). Analyzing user-generated content to improve customer satisfaction at local wine tourism destinations: An analysis of Yelp and TripAdvisor reviews. Consumer Behavior in Tourism and Hospitality, 17(4), 413–435. https://doi.org/10.1108/CBTH-03-2022-0077
+
+Hofstede, G. (2011). Dimensionalizing Cultures: The Hofstede Model in Context. Online Readings in Psychology and Culture, 2(1). https://doi.org/10.9707/2307-0919.1014
+
+Jia, M., Feng, J., Chen, Y., & Zhao, C. (2024). Visual Analysis of Social Media Data on Experiences at a World Heritage Tourist Destination: Historic Centre of Macau. Buildings, 14(7), Article 7. https://doi.org/10.3390/buildings14072188
+
+Koc, E. (2020). Cross-Cultural Aspects of Tourism and Hospitality: A Services Marketing and Management Perspective. Routledge. https://doi.org/10.4324/9781003018193
+
+Kumar, N., & Hanji, B. R. (2024). Combined sentiment score and star rating analysis of travel destination prediction based on user preference using morphological linear neural network model with correlated topic modelling approach. Multimedia Tools and Applications, 83(22), 61347–61378. https://doi.org/10.1007/s11042-023-17995-y
+
+Leiper, N. (1990). Tourist attraction systems. Annals of Tourism Research, 17(3), 367–384. https://doi.org/10.1016/0160-7383(90)90004-B
+
+Lew, A. A. (1987). A framework of tourist attraction research. Annals of Tourism Research, 14(4), 553–575. https://doi.org/10.1016/0160-7383(87)90071-5
+
+Lozano-Monterrubio, N., & Huertas, A. (2020). The image of Barcelona in Online Travel Reviews during 2017 Catalan independence process. https://repositorio.consejodecomunicacion.gob.ec//handle/CONSEJO_REP/2514
+
+Mariani, M. M., Borghi, M., & Okumus, F. (2020). Unravelling the effects of cultural differences in the online appraisal of hospitality and tourism services. International Journal of Hospitality Management, 90, 102606. https://doi.org/10.1016/j.ijhm.2020.102606
+
+Oliveira, T., Araujo, B., & Tam, C. (2020). Why do people share their travel experiences on social media? Tourism Management, 78, 104041. https://doi.org/10.1016/j.tourman.2019.104041
+
+Qiu, Q., & Zhang, M. (2021). Using Content Analysis to Probe the Cognitive Image of Intangible Cultural Heritage Tourism: An Exploration of Chinese Social Media. ISPRS International Journal of Geo-Information, 10(4), Article 4. https://doi.org/10.3390/ijgi10040240
+
+Richards, G. (2002). Tourism attraction systems: Exploring Cultural Behavior. Annals of Tourism Research, 29(4), 1048–1064. https://doi.org/10.1016/S0160-7383(02)00026-9
+
+Sánchez-Franco, M. J., & Rey-Tienda, S. (2023). The role of user-generated content in tourism decision-making: An exemplary study of Andalusia, Spain. Management Decision, 62(7), 2292–2328. https://doi.org/10.1108/MD-06-2023-0966
+
+Santos, M. L. B. dos. (2021). The “so-called” UGC: An updated definition of user-generated content in the age of social media. Online Information Review, 46(1), 95–113. https://doi.org/10.1108/OIR-06-2020-0258
+
+Stepchenkova, S., Kim, H., & Kirilenko, A. (2015). Cultural Differences in Pictorial Destination Images: Russia through the Camera Lenses of American and Korean Tourists. Journal of Travel Research, 54(6), 758–773. https://doi.org/10.1177/0047287514535849
+
+Wen, Y., Liang, Y., & Zhu, X. (2023). Sentiment analysis of hotel online reviews using the BERT model and ERNIE model—Data from China. PLOS ONE, 18(3), e0275382. https://doi.org/10.1371/journal.pone.0275382
+
+Xu, H., Cheung, L. T. O., Lovett, J., Duan, X., Pei, Q., & Liang, D. (2023). Understanding the influence of user-generated content on tourist loyalty behavior in a cultural World Heritage Site. Tourism Recreation Research, 48(2), 173–187. https://doi.org/10.1080/02508281.2021.1913022
+
+Yadollahi, A., Shahraki, A. G., & Zaiane, O. R. (2017). Current State of Text Sentiment Analysis from Opinion to Emotion Mining. ACM Comput. Surv., 50(2), 25:1-25:33. https://doi.org/10.1145/3057270
+
+Yang, B.-E., & Brown, T. J. (1992). A Cross-Cultural Comparison of Preferences for Landscape Styles and Landscape Elements. Environment and Behavior, 24(4), 471–507. https://doi.org/10.1177/0013916592244003
